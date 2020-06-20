@@ -1,7 +1,7 @@
 const nome = "Fabio"
 const sexo = "M"
 const idade = 50
-const contribuicao = 45
+const contribuicao = 46
 
 const calculoContribuicao = idade + contribuicao
 
